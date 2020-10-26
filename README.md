@@ -1,5 +1,5 @@
 ### Xin chào 👋
-Đây là ứng dụng Âm lịch Việt Nam do mình tạo ra dành cho mục đích cá nhân.
+Đây là ứng dụng Âm lịch Việt Nam do mình làm ra dành cho mục đích cá nhân.
 Dựa trên công trình nghiên cứu của Hồ Ngọc Đức tại địa chỉ: https://www.informatik.uni-leipzig.de/~duc/amlich/
 
 ### Địa chỉ ứng dụng 🚀
