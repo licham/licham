@@ -2,6 +2,14 @@
 Đây là ứng dụng Âm lịch Việt Nam do mình tạo ra dành cho mục đích cá nhân.
 Dựa trên công trình nghiên cứu của Hồ Ngọc Đức tại địa chỉ: https://www.informatik.uni-leipzig.de/~duc/amlich/
 
+### Địa chỉ ứng dụng 🚀
+Bạn có thể truy cập ứng dụng thông qua trình duyệt trên PC hay smartphone qua địa chỉ sau:
+https://licham.github.io/licham/
+
+### Dữ liệu lịch âm của người dùng 📆
+Toàn bộ dữ liệu cá nhân sẽ nằm trên máy của bạn (chủ yếu trong localStorage của trình duyệt).
+Nếu các bạn reset trình duyệt sẽ mất dữ liệu (các bạn nên thỉnh thoảng sao lưu thủ công ra 1 khu vực riêng).
+
 <!--
 **licham/licham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
