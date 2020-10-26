@@ -8,7 +8,7 @@ https://licham.github.io/licham/
 
 ### Dữ liệu lịch âm của người dùng 📆
 Toàn bộ dữ liệu cá nhân sẽ nằm trên máy của bạn (chủ yếu trong localStorage của trình duyệt).
-Nếu các bạn reset trình duyệt sẽ mất dữ liệu (các bạn nên thỉnh thoảng sao lưu thủ công ra 1 khu vực riêng).
+Nếu các bạn reset trình duyệt sẽ mất dữ liệu. Nên thỉnh thoảng sao lưu thủ công ra 1 khu vực riêng.
 
 <!--
 **licham/licham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
