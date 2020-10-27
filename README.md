@@ -14,8 +14,8 @@ https://www.moonpage.com/
 - Ứng dụng đã được kiểm tra và chạy trên Chrome, Edge, FireFox, Opera, ... (không chạy trên Internet Explorer tất cả các phiên bản)
 
 ### Dữ liệu lịch âm của người dùng 📆
-Toàn bộ dữ liệu cá nhân sẽ nằm trên máy của bạn (chủ yếu trong localStorage của trình duyệt).
-Nếu bạn reset trình duyệt sẽ mất dữ liệu. Nên thỉnh thoảng sao lưu thủ công ra 1 khu vực riêng.
+Toàn bộ dữ liệu cá nhân sẽ nằm trên máy của bạn (chủ yếu trong localStorage của trình duyệt).  
+Nếu bạn reset trình duyệt sẽ mất dữ liệu. Nên thỉnh thoảng sao lưu thủ công ra 1 khu vực riêng.  
 
 <!--
 **licham/licham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
