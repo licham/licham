@@ -1,15 +1,17 @@
 ### Xin chào 👋
 Đây là ứng dụng Âm lịch Việt Nam do mình làm ra dành cho mục đích cá nhân.
+
+### Địa chỉ ứng dụng 🚀
+Bạn có thể truy cập ứng dụng thông qua trình duyệt trên PC hay smartphone qua địa chỉ sau:  
+https://licham.github.io/licham/
+
+### Thông tin chi tiết 📚
 - Dựa trên công trình nghiên cứu của Hồ Ngọc Đức tại địa chỉ:  
 https://www.informatik.uni-leipzig.de/~duc/amlich/
 - Kiểm tra phép tính tuần trăng tại địa chỉ:  
 https://www.moonpage.com/
 - Về mã nguồn, bạn có thể tham khảo các trang web trên. Do đây là ứng dụng nên mã đã được nén lại.
 - Ứng dụng đã được kiểm tra và chạy trên Chrome, Edge, FireFox, Opera, ... (không chạy trên Internet Explorer tất cả các phiên bản)
-
-### Địa chỉ ứng dụng 🚀
-Bạn có thể truy cập ứng dụng thông qua trình duyệt trên PC hay smartphone qua địa chỉ sau:  
-https://licham.github.io/licham/
 
 ### Dữ liệu lịch âm của người dùng 📆
 Toàn bộ dữ liệu cá nhân sẽ nằm trên máy của bạn (chủ yếu trong localStorage của trình duyệt).
