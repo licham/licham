@@ -4,7 +4,7 @@
 https://www.informatik.uni-leipzig.de/~duc/amlich/
 - Kiểm tra phép tính tuần trăng tại địa chỉ:  
 https://www.moonpage.com/
-- Về mã nguồn, bạn có thể tham khảo các trang web trên.
+- Về mã nguồn, bạn có thể tham khảo các trang web trên. Do đây là ứng dụng nên mã đã được nén lại.
 
 ### Địa chỉ ứng dụng 🚀
 Bạn có thể truy cập ứng dụng thông qua trình duyệt trên PC hay smartphone qua địa chỉ sau:  
