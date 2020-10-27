@@ -1,10 +1,12 @@
 ### Xin chào 👋
 Đây là ứng dụng Âm lịch Việt Nam do mình làm ra dành cho mục đích cá nhân.
-- Dựa trên công trình nghiên cứu của Hồ Ngọc Đức tại địa chỉ: https://www.informatik.uni-leipzig.de/~duc/amlich/
-- Kiểm tra phép tính tuần trăng tại địa chỉ: https://www.moonpage.com/
+- Dựa trên công trình nghiên cứu của Hồ Ngọc Đức tại địa chỉ:  
+https://www.informatik.uni-leipzig.de/~duc/amlich/
+- Kiểm tra phép tính tuần trăng tại địa chỉ:  
+https://www.moonpage.com/
 
 ### Địa chỉ ứng dụng 🚀
-Bạn có thể truy cập ứng dụng thông qua trình duyệt trên PC hay smartphone qua địa chỉ sau:
+Bạn có thể truy cập ứng dụng thông qua trình duyệt trên PC hay smartphone qua địa chỉ sau:  
 https://licham.github.io/licham/
 
 ### Dữ liệu lịch âm của người dùng 📆
