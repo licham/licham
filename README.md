@@ -10,6 +10,24 @@ https://licham.github.io/licham/
 https://www.informatik.uni-leipzig.de/~duc/amlich/
 - Kiểm tra phép tính tuần trăng tại địa chỉ:  
 https://www.moonpage.com/
+- Bảng tính can giờ theo can ngày:  
+|Can Ngày/ Giờ|Giáp và Kỷ|Ất và Canh|Bính và Tân|Đinh và Nhâm|Mậu và Quý|
+|--- |--- |--- |--- |--- |--- |
+|Tý (23-1)|Giáp Tý|Bính Tý|Mậu Tý|Canh Tý|Nhâm Tý|
+|Sửu (1-3)|Ất Sửu|Đinh Sửu|Kỷ Sửu|Tân Sửu|Quý Sửu|
+|Dần (3-5)|Bính Dần|Mậu Dần|Canh Dần|Nhâm Dần|Giáp Dần|
+|Mão (5-7)|Đinh Mão|Kỷ Mão|Tân Mão|Quý Mão|Ất Mão|
+|Thìn (7-9)|Mậu Thìn|Canh Thìn|Nhâm Thìn|Giáp Thìn|Bính Thìn|
+|Tị (9-11)|Kỷ Tị|Tân Tị|Quý Tị|Ất Tị|Đinh Tị|
+|Ngọ (11-13)|Canh Ngọ|Nhâm Ngọ|Giáp Ngọ|Bính Ngọ|Mậu Ngọ|
+|Mùi (13-15)|Tân Mùi|Quý Mùi|Ất Mùi|Đinh Mùi|Kỷ Mùi|
+|Thân (15-17)|Nhâm Thân|Giáp Thân|Bính Thân|Mậu Thân|Canh Thân|
+|Dậu (17-19)|Quý Dậu|Ất Dậu|Đinh Dậu|Kỷ Dậu|Tân Dậu|
+|Tuất (19-21)|Giáp Tuất|Bính Tuất|Mậu Tuất|Canh Tuất|Nhâm Tuất|
+|Hợi (21-23)|Ất Hợi|Đinh Hợi|Kỷ Hợi|Tân Hợi|Quý Hợi|
+Can giờ lệ thuộc vào can ngày.
+Ví dụ: Ngày có can Giáp và Kỷ thì giờ Tý có can Giáp
+Ngày có can Mậu và Quý thì giờ Tý có can Nhâm
 - Về mã nguồn, bạn có thể tham khảo các trang web trên. Do đây là ứng dụng nên mã đã được nén lại.
 - Ứng dụng đã được kiểm tra và chạy trên Chrome, Edge, FireFox, Opera, ... (không chạy trên Internet Explorer tất cả các phiên bản)
 
