@@ -9,7 +9,8 @@ https://licham.github.io/licham/
 - Dựa trên công trình nghiên cứu của Hồ Ngọc Đức tại địa chỉ:  
 https://www.informatik.uni-leipzig.de/~duc/amlich/
 - Kiểm tra phép tính tuần trăng tại địa chỉ:  
-https://www.moonpage.com/
+https://www.moonpage.com/  
+https://stardate.org/nightsky/moon
 - Về mã nguồn, bạn có thể tham khảo các trang web trên. Do đây là ứng dụng nên mã đã được nén lại.
 - Ứng dụng đã được kiểm tra và chạy trên Chrome, Edge, FireFox, Opera, ... (không chạy trên Internet Explorer tất cả các phiên bản)
 
