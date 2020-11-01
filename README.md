@@ -13,7 +13,7 @@ https://www.moonpage.com/
 - Về mã nguồn, bạn có thể tham khảo các trang web trên. Do đây là ứng dụng nên mã đã được nén lại.
 - Ứng dụng đã được kiểm tra và chạy trên Chrome, Edge, FireFox, Opera, ... (không chạy trên Internet Explorer tất cả các phiên bản)
 
-###Bảng tính can giờ theo can ngày: 🌜
+### Bảng tính can giờ theo can ngày: 🌜
 |Can Ngày/ Giờ|Giáp và Kỷ|Ất và Canh|Bính và Tân|Đinh và Nhâm|Mậu và Quý|
 |--- |--- |--- |--- |--- |--- |
 |Tý (23-1)|Giáp Tý|Bính Tý|Mậu Tý|Canh Tý|Nhâm Tý|
