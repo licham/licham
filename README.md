@@ -14,7 +14,7 @@ https://www.moonpage.com/
 - Ứng dụng đã được kiểm tra và chạy trên Chrome, Edge, FireFox, Opera, ... (không chạy trên Internet Explorer tất cả các phiên bản)
 
 ### Bảng tính can giờ theo can ngày: 🌜
-|Can Ngày/ Giờ|Giáp và Kỷ|Ất và Canh|Bính và Tân|Đinh và Nhâm|Mậu và Quý|
+|Can Ngày/ Giờ|Giáp/Kỷ|Ất/Canh|Bính/Tân|Đinh/Nhâm|Mậu/Quý|
 |--- |--- |--- |--- |--- |--- |
 |Tý (23-1)|Giáp Tý|Bính Tý|Mậu Tý|Canh Tý|Nhâm Tý|
 |Sửu (1-3)|Ất Sửu|Đinh Sửu|Kỷ Sửu|Tân Sửu|Quý Sửu|
@@ -28,9 +28,7 @@ https://www.moonpage.com/
 |Dậu (17-19)|Quý Dậu|Ất Dậu|Đinh Dậu|Kỷ Dậu|Tân Dậu|
 |Tuất (19-21)|Giáp Tuất|Bính Tuất|Mậu Tuất|Canh Tuất|Nhâm Tuất|
 |Hợi (21-23)|Ất Hợi|Đinh Hợi|Kỷ Hợi|Tân Hợi|Quý Hợi|
-- Can giờ lệ thuộc vào can ngày.
-- Ví dụ: Ngày có can Giáp và Kỷ thì giờ Tý có can Giáp
-- Ngày có can Mậu và Quý thì giờ Tý có can Nhâm
+Can giờ lệ thuộc vào can ngày. Ví dụ: Ngày có can Giáp và Kỷ thì giờ Tý có can Giáp. Ngày có can Mậu và Quý thì giờ Tý có can Nhâm.
 
 ### Dữ liệu lịch âm của người dùng 📆
 Toàn bộ dữ liệu cá nhân sẽ nằm trên máy của bạn (chủ yếu trong localStorage của trình duyệt).  
