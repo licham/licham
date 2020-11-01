@@ -29,7 +29,10 @@ https://www.moonpage.com/
 |Tuất (19-21)|Giáp Tuất|Bính Tuất|Mậu Tuất|Canh Tuất|Nhâm Tuất|
 |Hợi (21-23)|Ất Hợi|Đinh Hợi|Kỷ Hợi|Tân Hợi|Quý Hợi|
 
-Can giờ lệ thuộc vào can ngày. Ví dụ: Ngày có can Giáp và Kỷ thì giờ Tý có can Giáp. Ngày có can Mậu và Quý thì giờ Tý có can Nhâm.
+Can giờ lệ thuộc vào can ngày. 
+Ví dụ: 
+- Ngày có can Giáp và Kỷ thì giờ Tý có can Giáp.
+- Ngày có can Mậu và Quý thì giờ Tý có can Nhâm.
 
 ### Dữ liệu lịch âm của người dùng 📆
 Toàn bộ dữ liệu cá nhân sẽ nằm trên máy của bạn (chủ yếu trong localStorage của trình duyệt).  
